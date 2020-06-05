@@ -72,7 +72,7 @@ case "$1" in
     down
     build
     start
-    tail
+    # tail
     ;;
   build_start_it_supported)
     down
